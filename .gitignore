@@ -1,4 +1,5 @@
 *.wav
 *.jpg
 !example.jpg
+image.png
 .ipynb_checkpoints
